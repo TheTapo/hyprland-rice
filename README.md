@@ -1,3 +1,3 @@
 # hyprland-rice
 # Preview
-(assets/screen.png)
+![goofy-AH](assets/screen.png)
