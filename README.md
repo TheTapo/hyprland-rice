@@ -1,3 +1,3 @@
 # hyprland-rice
 # Preview
-[!some-text](assets/screen.png)
+(assets/screen.png)
